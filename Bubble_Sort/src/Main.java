@@ -24,7 +24,6 @@ public class Main {
             System.out.print(array[i] + " ");
         }
     }
-
     public static  void swap(int[] array, int i, int j){
         if(i == j){
             return;
