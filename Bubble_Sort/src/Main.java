@@ -19,6 +19,7 @@ public class Main {
             }
         }
 
+
         for(i = 0; i < 7; i++){
             System.out.print(array[i] + " ");
         }
